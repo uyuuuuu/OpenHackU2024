@@ -1,3 +1,9 @@
+# FitTime
+「忙しい朝にフィットした生活を送ろう」というテーマで、簡単かつ短時間で明日起きるべき時刻を把握するためのwebアプリです。
+
+## スライド
+https://docs.google.com/presentation/d/10tC75CjFfhjdNAZVlh6kAbKRyCqYLx690gSc_KRhkKY/edit?usp=sharing
+
 ## 実行方法
 ```.env```を作成、環境変数を登録  
 ```npm install```  
