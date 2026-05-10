@@ -1,8 +1,14 @@
 # FitTime
-「忙しい朝にフィットした生活を送ろう」というテーマで、簡単かつ短時間で明日起きるべき時刻を把握するためのwebアプリです。
+「忙しい朝にフィットした生活を送ろう」というテーマで、簡単かつ短時間で明日起きるべき時刻を把握するためのwebアプリです。  
+
+FitTimeは、電車の時間やオンライン会議の開始時刻などの「目標時刻」と、朝に行うタスクの所要時間を登録することで、起きるべき時刻を自動で逆算します。  
+初回は質問形式で朝のルーティンを登録でき、登録したタスクや時刻はプリセットとして再利用できます。
+
+## 担当
+バックエンド、ロゴデザイン
 
 ## デモ動画
-(デモ動画)[https://drive.google.com/file/d/1H64Aj0nMbJy6F5bPEZMQyvjba8ALBYqq/view?usp=sharing]
+[デモ動画](https://drive.google.com/file/d/1H64Aj0nMbJy6F5bPEZMQyvjba8ALBYqq/view?usp=sharing)
 
 ## スライド
 https://docs.google.com/presentation/d/10tC75CjFfhjdNAZVlh6kAbKRyCqYLx690gSc_KRhkKY/edit?usp=sharing
