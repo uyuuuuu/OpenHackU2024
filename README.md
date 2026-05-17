@@ -12,6 +12,7 @@ FitTimeは、電車の時間やオンライン会議の開始時刻などの「�
 
 ## スライド
 https://docs.google.com/presentation/d/10tC75CjFfhjdNAZVlh6kAbKRyCqYLx690gSc_KRhkKY/edit?usp=sharing
+
 <img width=60% alt="FitTime_Slide" src="https://github.com/user-attachments/assets/14f67e7a-6e57-455b-8191-09b7de276589" />
 <img width=60%  alt="FitTime_Slide (1)" src="https://github.com/user-attachments/assets/a2adc4d3-5ae1-4f10-9297-a2a0fc1e2920" />
 <img width=60%  alt="FitTime_Slide (2)" src="https://github.com/user-attachments/assets/2dc1d481-a0aa-4d4c-af09-09fbf3928002" />
