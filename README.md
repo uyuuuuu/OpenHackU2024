@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./public/image/FitTime_logo.png" style="width: 33%;" alt="Logo" />
+</p>
+
 # FitTime
 「忙しい朝にフィットした生活を送ろう」というテーマで、簡単かつ短時間で明日起きるべき時刻を把握するためのwebアプリです。  
 
